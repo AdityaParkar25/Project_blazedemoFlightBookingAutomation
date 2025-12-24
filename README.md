@@ -1,6 +1,6 @@
 Travel and Tourism Automation Project
 
-1. Project Title:-
+1. Project Name:-
 Automation Testing Framework for blazedemo.com flight booking website.
 
 2. Objective:-
